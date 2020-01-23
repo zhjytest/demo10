@@ -1,3 +1,2 @@
 
 print("hellokkk")
-print("xxx")
